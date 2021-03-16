@@ -24,9 +24,9 @@ resources :
 
     type : github
 
-    endpoint : MyProject
+    endpoint : Azuredemotraining
 
-    name : ILiuACR/shared-azure-pipeline-templates
+    name : dkakarlapudiacr/shared-azure-pipeline-templates
 
     branch : master
 
